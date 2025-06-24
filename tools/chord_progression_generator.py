@@ -82,3 +82,4 @@ def generate_chord_progression(key: str) -> str:
         result.append(chords[idx])
 
     return f"Chord progression in {key}: {' - '.join(result)}"
+#this is the end of the code also an edit to the file to work on git
