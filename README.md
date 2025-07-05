@@ -1,18 +1,3 @@
----
-title: HS First Agent Template
-emoji: ⚡
-colorFrom: blue
-colorTo: gray
-sdk: gradio
-sdk_version: 5.15.0
-app_file: app.py
-pinned: false
-tags:
-- smolagents
-- agent
-- smolagent
-- tool
-- agent-course
----
+## Git Practice
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+This project was used to practice Git commands such as branching, committing, pushing, and merging.
